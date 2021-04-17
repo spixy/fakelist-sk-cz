@@ -163,6 +163,7 @@
 ||magazinslovensko.online^
 ||hlavnydennik.sk^
 ||udalostiextra.cz^
+||hlavnespravy.sk^
 ||dennik-dnes.sk^
 ||reformy.cz^
 ||aktuality24.sk^
